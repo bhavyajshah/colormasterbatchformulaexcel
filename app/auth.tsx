@@ -11,7 +11,7 @@ export default function Auth({ children }: AuthProps) {
   const [error, setError] = useState('');
   const [isLoading, setIsLoading] = useState(true);
 
-  const CORRECT_PASSWORD = 'masterbatch2024'; // Change this to your desired password
+  const CORRECT_PASSWORD = 'j38.6O98)p3{^Tjf8lX<28|TAN5n)0Nth[Cbrr6I'; // Change this to your desired password
 
   useEffect(() => {
     // Check if user is already authenticated
